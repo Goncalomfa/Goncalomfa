@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Goncalomfa
-- 🌱 I currently have a couple ideas of some projects to do (at least one of them has to be private in case it turns into something 👀)
+- 🌱 Here I'm storing some of the projects I've done so far.
 
 <!---
 Goncalomfa/Goncalomfa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
